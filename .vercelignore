@@ -1,0 +1,9 @@
+node_modules
+.git
+.github
+.vscode
+README.md
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
